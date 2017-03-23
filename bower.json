@@ -1,7 +1,9 @@
 {
   "name": "oauth-1.0a",
   "version": ""2.1.0",
-  "author": "Ddo",
+  "authors": [
+    "Ddo"
+  ],
   "description": "OAuth 1.0a Request Authorization for Node and Browser.",
   "main": "oauth-1.0a.js",
   "keywords": [
