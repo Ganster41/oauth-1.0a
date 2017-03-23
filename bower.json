@@ -1,0 +1,27 @@
+{
+  "name": "oauth-1.0a",
+  "version": ""2.1.0",
+  "author": "Ddo",
+  "description": "OAuth 1.0a Request Authorization for Node and Browser.",
+  "main": "oauth-1.0a.js",
+  "keywords": [
+    "oauth",
+    "1.0a",
+    "oauth1.0a",
+    "authorize",
+    "signature",
+    "nonce",
+    "consumer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cryptojslib": "~3.1.2"
+  }
+}
